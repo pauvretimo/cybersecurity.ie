@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(10, 10, 20);
+}
+
+.hidden {
+    display: none;
+}
+
+#copyPopup {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+    background-color: black;
+    color: white;
+
+    animation: 5s animationCopyPopup ease-out forwards;
+}
+
+@keyframes animationCopyPopup {
+    50% {
+        background-color: rgba(60,60,70,1);
+        color: rgba(255,255,255,1);
+    }
+    100% {
+        background-color: rgba(60,60,70,0);
+        color: rgba(255,255,255,0);
+    }
+
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 40px;
+    padding: 5px;
+
+    margin: 20px;
+    width: 20%;
+    min-width: 300px;
+    height: 200px;
+    color: white;
+}
+
+.cardHolder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+    align-content: stretch;
+}
+
+.card {
+    background: linear-gradient(90deg, rgba(22,155,98,0.3) 33%, rgba(255,255,255,0.3) 33%, rgba(255,255,255,0.3) 66%, rgba(255,136,62,0.3) 66%);;
+}
