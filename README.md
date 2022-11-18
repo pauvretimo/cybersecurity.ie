@@ -43,7 +43,7 @@ Possible d'ouvrir à d'autres pays.
 * https://www.mastercard.ie/en-ie.html
 * https://www.hcs.ie/careers/
 * https://www.btireland.com/careers
-* https://www.logitech.com/fr-fr
+* https://jobs.jobvite.com/logitech
 * https://www.voxxify.com/contact/
 * https://www.arrow.com/
 * https://jobs.solarwinds.com/
