@@ -57,8 +57,6 @@ Possible d'ouvrir à d'autres pays.
 * https://www.armis.com/careers/
 * https://www.akamai.com/careers
 * https://www.fijowave.com/
-    - Secure Connectivity for IoT Communication Networks
-    - recruitement : email = Y2FyZWVyc0BmaWpvd2F2ZS5jb20=
 * https://careers.hpe.com/us/en
 * https://esb.ie/careers
 * https://www.typetec.ie/
