@@ -2,6 +2,12 @@
 
 ## A list of Irish cyber security companies
 
+
+TODO : Trier par type d'entreprises
+Possible d'ouvrir à d'autres pays.
+
+
+
 * https://www.integrity360.com/careers#positions
 * https://www.renaissance.ie/contact-us/
 * https://www.sophos.com/en-us/careers
